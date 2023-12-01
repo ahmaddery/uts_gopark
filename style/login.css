@@ -1,0 +1,243 @@
+/*
+	@name desktop___2
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 890px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__desktop___2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 890px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_8 {
+	top: 64px;
+	left: 169px;
+	width: 498px;
+	height: 696px;
+	background:rgba(217,217,217,1);
+}
+
+
+#image_1 {
+	top: 0px;
+	left: 883px;
+	width: 557px;
+	height: 890px;
+}
+
+
+#rectangle_4 {
+	top: 133px;
+	left: 233px;
+	width: 459px;
+	height: 546px;
+	background:rgba(255,255,255,0);
+}
+
+
+#sign_in_to_system {
+	top: 92px;
+	left: 311px;
+	width: 302px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Petrona;
+	font-size: 36px;
+	text-align: left;
+	color:#2F278A;
+}
+
+
+#rectangle_5 {
+	top: 374px;
+	left: 312px;
+	width: 269px;
+	height: 48px;
+	background: rgba(246.71, 241.78, 241.78, 1);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+  }
+  
+  #rectangle_5 input {
+	border: none;
+	outline: none;
+	background: transparent;
+	font-family: petrona;
+	font-size: 24px;
+	text-align: left;
+	color: #000000;
+	width: 100%;
+	height: 100%;
+	padding-left: 20px;
+	box-sizing: border-box;
+  }
+  
+  #rectangle_5 input::placeholder {
+	font-family: petrona;
+	font-size: 24px;
+	text-align: left;
+	color: #000000;
+  }
+
+  #rectangle_6 {
+    top: 420px;
+    left: 310px;
+    width: 264px;
+    height: 50px;
+    background: rgba(255, 249.9, 249.9, 1);
+    position: relative;
+}
+
+#rectangle_6 label {
+    position: absolute;
+    top: 25%;
+    transform: translateY(-50%);
+    left: 10px;
+    font-family: Petrona;
+    font-size: 24px;
+    text-align: left;
+    color: #000000;
+    margin-top: 10px;
+}
+
+#rectangle_6 input[type="password"] {
+    position: absolute;
+    top: 25%;
+    transform: translateY(-50%);
+    left: 10px;
+    width: 120px;
+    height: 30px;
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+
+
+#_rectangle_7 {
+	top: 691px;
+	left: 306px;
+	width: 200px;
+	height: 49px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	border: 1px solid #677381;
+	background:rgba(191.01,181.89,216.96,1);
+}
+
+
+#sign_in {
+	top: 693px;
+	left: 362px;
+	width: 120px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Petrona;
+	font-size: 24px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #b7a9a9;
+	color:#310808;
+}
+
+
+#image_2 {
+	top: 172px;
+	left: 319px;
+	width: 45px;
+	height: 41px;
+}
+
+
+#image_3 {
+	top: 176px;
+	left: 421px;
+	width: 39px;
+	height: 39px;
+}
+
+
+#image_4 {
+	top: 177px;
+	left: 520px;
+	width: 41px;
+	height: 39px;
+}
+
+
+#or_use_your_email_account {
+	top: 261px;
+	left: 306px;
+	width: 300px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Petrona;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#forget_your_password__ {
+	top: 620px;
+	left: 306px;
+	width: 234px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Oxygen;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+#sign_up{
+	top: 560px;
+	left: 306px;
+	width: 234px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Oxygen;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#btn_sign_up{
+	top: 560px;
+	left: 520px;
+	width: 234px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Oxygen;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#frame_1 {
+	top: 511px;
+	left: 731px;
+	width: 100px;
+	height: 100px;
+}
+
+
+/* Add your custom CSS here */
